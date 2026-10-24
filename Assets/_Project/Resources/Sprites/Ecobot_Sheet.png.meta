@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 045f323171d1e914ca280c2cf05a7ac9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2260866692042545475
+    second: Ecobot_Sheet_0
+  - first:
+      213: -622396958021483437
+    second: Ecobot_Sheet_1
+  - first:
+      213: -7420542707377745928
+    second: Ecobot_Sheet_2
+  - first:
+      213: -6135769350996093475
+    second: Ecobot_Sheet_3
+  - first:
+      213: 6547494922766822275
+    second: Ecobot_Sheet_4
+  - first:
+      213: -6054325331036734655
+    second: Ecobot_Sheet_5
+  - first:
+      213: -6007206330689993218
+    second: Ecobot_Sheet_6
+  - first:
+      213: -1653389312883942023
+    second: Ecobot_Sheet_7
+  - first:
+      213: -7215154419521641645
+    second: Ecobot_Sheet_8
+  - first:
+      213: 1101182189514789724
+    second: Ecobot_Sheet_9
+  - first:
+      213: -8657117495398617240
+    second: Ecobot_Sheet_10
+  - first:
+      213: -6096642758623435172
+    second: Ecobot_Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ecobot_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34955bf1746306f10800000000000000
+      internalID: 2260866692042545475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35488d7a34dcc57f0800000000000000
+      internalID: -622396958021483437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff422e29bfe40990800000000000000
+      internalID: -7420542707377745928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51622b84e59daa0800000000000000
+      internalID: -6135769350996093475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba03031ff5dda50800000000000000
+      internalID: 6547494922766822275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf7e84037bafba0800000000000000
+      internalID: -6054325331036734655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ceb67bad12aca0800000000000000
+      internalID: -6007206330689993218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d10221e2bfd09e0800000000000000
+      internalID: -1653389312883942023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a2d0784f9edb90800000000000000
+      internalID: -7215154419521641645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531407fd5f284f00800000000000000
+      internalID: 1101182189514789724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f22fb518dbbd780800000000000000
+      internalID: -8657117495398617240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecobot_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56eac166bf546ba0800000000000000
+      internalID: -6096642758623435172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ecobot_Sheet_0: 2260866692042545475
+      Ecobot_Sheet_1: -622396958021483437
+      Ecobot_Sheet_10: -8657117495398617240
+      Ecobot_Sheet_11: -6096642758623435172
+      Ecobot_Sheet_2: -7420542707377745928
+      Ecobot_Sheet_3: -6135769350996093475
+      Ecobot_Sheet_4: 6547494922766822275
+      Ecobot_Sheet_5: -6054325331036734655
+      Ecobot_Sheet_6: -6007206330689993218
+      Ecobot_Sheet_7: -1653389312883942023
+      Ecobot_Sheet_8: -7215154419521641645
+      Ecobot_Sheet_9: 1101182189514789724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
